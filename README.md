@@ -1,15 +1,18 @@
-# HANDWRITTEN DIGITS DATASET
+# Dataset of Handwritten Digits
 
-## Summary
-A dataset containing 120 samples of handwritten digits. The quality and characteristic of each sample may vary depending on how my team member did it, however, all samples strictly followed the rules:
+## Overview
+This dataset comprises 120 samples of handwritten digits. The quality and characteristics of each sample may differ depending on the team member who created it, but all samples strictly adhere to the following guidelines:
 - Digits are written on an A4 paper with a white background.
-- Digits must be in black/blue color.
-- Digits must be in the center of the picture and near the edges as much as possible.
-- Allow zooming in when taking picture, but using any third-party apps to crop/resize picture.
+- Digits are in black or blue color.
+- Digits are centered and as close to the edges as possible.
+- Each picture is in its original size.
+- Zooming in is allowed when taking the picture, but using any third-party apps to crop or resize the picture is prohibited.
+- Lighting conditions have no specific requirements, but they must be sufficient to see the digit clearly with naked eyes.
+- There are no restrictions on pen point size or camera quality.
 
 
 ## Collected by:
-|No.|Member   |Student ID|
+|No.|Member|Student ID|
 |:-:|:-:|:-:|
 |1|Nguyen Trong An|21520548|
 |2|Bui Huynh Kim Uyen|21521659|
