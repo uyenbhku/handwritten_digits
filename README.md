@@ -7,7 +7,7 @@ This dataset comprises 120 samples of handwritten digits. The quality and charac
 - Digits are centered and as close to the edges as possible.
 - Each picture is in its original size.
 - Zooming in is allowed when taking the picture, but using any third-party apps to crop or resize the picture is prohibited.
-- Lighting conditions have no specific requirements, but they must be sufficient to see the digit clearly with naked eyes.
+- Have no specific requirements on lighting conditions, but they must be sufficient to see the digit clearly with naked eyes.
 - There are no restrictions on pen point size or camera quality.
 
 
