@@ -11,7 +11,7 @@ This dataset comprises 120 samples of handwritten digits. The quality and charac
 - There are no restrictions on pen point size or camera quality.
 
 
-## Collected by:
+## Collected by: NSFW Team
 |No.|Member|Student ID|
 |:-:|:-:|:-:|
 |1|Nguyen Trong An|21520548|
